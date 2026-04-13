@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Khezar Ahmed</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS Cloud-Native & Serverless Architectures | Hyderabad, India</h3>
+<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Hyderabad, India</h3>
 
 <br/>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="DevOps coding animation"/>
 
 ### About Me
-DevOps & Cloud Engineer specializing in designing scalable, secure, and cost-efficient AWS architectures. Passionate about automation, infrastructure as code, and container orchestration that deliver measurable business impact.
+Recent graduate and passionate DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, and CI/CD pipelines. Currently building cloud-native and serverless projects to gain practical exposure in real-world environments.
 
-- 🚀 Currently architecting **Cloud-native & Serverless solutions on AWS**
+- 🚀 Currently working on **Cloud-native & Serverless AWS projects**
 - 🌱 Learning **DevSecOps, GitOps & AWS Solutions Architect**
-- ⚙️ Ask me about **Jenkins CI/CD, Terraform IaC, Docker, Kubernetes & AWS**
+- ⚙️ Ask me about **Jenkins CI/CD, Terraform, Docker, Kubernetes & AWS**
 - 📫 Reach me at **mohdkhezarahmed06@gmail.com**
-- ⚡ Key achievement — Optimized Docker setup, reducing memory usage by **70%** and launch time by **80%** 🐳
+- ⚡ Project highlight — Optimized a Docker setup that reduced memory usage by **70%** and launch time by **80%** 🐳
 
 <br clear="right"/>
 
@@ -42,5 +42,5 @@ DevOps & Cloud Engineer specializing in designing scalable, secure, and cost-eff
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-khezar-ahmed/md-khezar-ahmed/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/md-khezar-ahmed/md-khezar-ahmed/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/MdKhezarAhmed/MdKhezarAhmed/output/github-contribution-grid-snake-dark.svg" />
 </picture>
