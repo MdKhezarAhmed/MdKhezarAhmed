@@ -3,7 +3,6 @@
 
 <br/>
 
-
 <img align="right" width="260" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
 
 - I'm currently working on **Cloud-native & Serverless AWS architectures**
@@ -18,8 +17,6 @@
 
 <br clear="right"/>
 
----
-
 ### Connect with me:
 
 <a href="https://linkedin.com/in/md-khezar-ahmed" target="_blank">
@@ -30,9 +27,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" width="40" />
 </a>
 &nbsp;&nbsp;
-
-
----
 
 ### Languages and Tools:
 
