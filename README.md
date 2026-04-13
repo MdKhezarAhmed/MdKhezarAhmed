@@ -21,6 +21,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" width="40" />
 </a>
 
-### Languages and Tools:
+### Tech Stack:
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,prometheus,grafana,python,fastapi,nodejs,maven,vscode&theme=dark" />
