@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Khezar Ahmed</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Hyderabad, India</h3>
+<h3 align="center">A passionate DevOps & Cloud Engineer from Hyderabad, India</h3>
 
 <br/>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="DevOps coding animation"/>
 
-### About Me
-Recent graduate and passionate DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, and CI/CD pipelines. Currently building cloud-native and serverless projects to gain practical exposure in real-world environments.
+- 🚀 I'm currently working on **Cloud-native & Serverless AWS architectures**
 
-- 🚀 Currently working on **Cloud-native & Serverless AWS projects**
-- 🌱 Learning **DevSecOps, GitOps & AWS Solutions Architect**
+- 🌱 I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
+
 - ⚙️ Ask me about **Jenkins CI/CD, Terraform, Docker, Kubernetes & AWS**
-- 📫 Reach me at **mohdkhezarahmed06@gmail.com**
-- ⚡ Project highlight — Optimized a Docker setup that reduced memory usage by **70%** and launch time by **80%** 🐳
+
+- 📫 How to reach me **mohdkhezarahmed06@gmail.com**
+
+- ⚡ Fun fact — I once optimized a Docker setup so well, it cut memory usage by **70%** and launch time by **80%** in the same sprint 🐳
 
 <br clear="right"/>
 
@@ -25,11 +26,11 @@ Recent graduate and passionate DevOps enthusiast with hands-on experience in AWS
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mohdkhezarahmed06@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="38" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="38" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://md-khezar-ahmed.github.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio Website" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="40" width="40" />
 </a>
 
 ---
