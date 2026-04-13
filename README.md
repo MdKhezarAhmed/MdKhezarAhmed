@@ -3,26 +3,21 @@
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
 
-- 🚀 I'm currently working on **Cloud-native & Serverless AWS architectures**
+-  I'm currently working on **Cloud-native & Serverless AWS architectures**
 
-- 🌱 I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
+-  I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
 
-- 🛠️ I focus on building scalable, production-ready cloud infrastructure and automated deployment pipelines
+-  I focus on building scalable, production-ready cloud infrastructure and automated deployment pipelines
 
-- 📌 Open to **DevOps / Cloud Engineer opportunities** and collaborative projects
+-   Open to **DevOps / Cloud Engineer opportunities** and collaborative projects
 
-- ⚡ Fun fact: I enjoy simplifying cloud setups and automating repetitive work
+-   Fun fact: I enjoy simplifying cloud setups and automating repetitive work
 
-    </td>
-    <td width="35%" valign="top" align="center">
+   
+    
       <img width="340" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
