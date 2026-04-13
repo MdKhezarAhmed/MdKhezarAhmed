@@ -18,7 +18,7 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/md-khezar-ahmed" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="36" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38" width="36" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mohdkhezarahmed06@gmail.com">
