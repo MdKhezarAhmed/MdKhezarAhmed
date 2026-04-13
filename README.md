@@ -1,178 +1,364 @@
-<!-- Capsule Render Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Md%20Khezar%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20Docker&descSize=17&descAlignY=58&animation=fadeIn" />
-</p>
+<div align="center">
 
-<!-- Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Khezar+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer+%7C+AWS+Specialist;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions+%7C+Terraform;Docker+%7C+Kubernetes+%7C+Ansible+%7C+Prometheus;5%2B+Months+Hands-On+Cloud+Internship+Experience;Open+to+Full-Time+DevOps+%2F+Cloud+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04080f,50:00e5ff,100:04080f&height=200&section=header&text=Md%20Khezar%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AWS%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-khezar-ahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-md--khezar--ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohdkhezarahmed06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohdkhezarahmed06-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MdKhezarAhmed">
-    <img src="https://img.shields.io/badge/GitHub-MdKhezarAhmed-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MdKhezarAhmed&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-</p>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=AWS+DevOps+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Builder+%E2%98%81%EF%B8%8F;CI%2FCD+Automation+Specialist+%E2%9A%99%EF%B8%8F;Serverless+%26+Kubernetes+Enthusiast+%F0%9F%90%B3;Open+to+DevOps+%26+Cloud+Roles+%E2%9C%85" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- STATUS BADGES ROW -->
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-00e5ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud-ff6b35?style=for-the-badge&logo=amazonaws&logoColor=white" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=md-khezar-ahmed&label=Profile+Views&color=00e5ff&style=for-the-badge" />
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://linkedin.com/in/md-khezar-ahmed">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mohdkhezarahmed06@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://md-khezar-ahmed.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-04080f?style=for-the-badge&logo=vercel&logoColor=00e5ff" />
+</a>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ABOUT ME SECTION -->
+<img align="right" width="340" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="DevOps Animation"/>
+
+### `$ whoami`
 
 ```yaml
-Name        : Md Khezar Ahmed
-Role        : DevOps & Cloud Engineer
-Location    : Hyderabad, Telangana, India 🇮🇳
-Experience  : 5+ months hands-on internship (HEProAI + Full Stack Academy)
-Focus       : AWS Infrastructure | CI/CD Automation | IaC | Containers
-Education   : BCA — Osmania University, CGPA 8.08/10
-Status      : Actively seeking Full-Time DevOps / Cloud Engineer roles 🟢
-Email       : mohdkhezarahmed06@gmail.com
+name       : Md Khezar Ahmed
+role       : AWS DevOps Engineer
+degree     : BCA — Osmania University (CGPA 8.08)
+location   : Hyderabad, India
+experience : 2 Internships · 3 Cloud Projects · 7 Certs
+
+focus:
+  - Cloud-native architectures on AWS
+  - CI/CD pipeline automation (Jenkins)
+  - Infrastructure as Code (Terraform, Ansible)
+  - Container orchestration (Docker, Kubernetes)
+  - Serverless & event-driven systems
+
+availability  : Immediate
+notice_period : 0 days
+status        : ✅ READY TO DEPLOY
 ```
+
+<br clear="right"/>
 
 ---
 
+<!-- CI/CD PIPELINE VISUAL -->
+<div align="center">
+
+### ⚡ My DevOps Pipeline
+
+```
+┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
+│  SOURCE  │───▶│  BUILD   │───▶│   TEST   │───▶│  DEPLOY  │───▶│ MONITOR  │
+│   Git    │    │  Maven   │    │SonarQube │    │  Docker  │    │Prometheus│
+│  GitHub  │    │  Docker  │    │  Trivy   │    │Jenkins   │    │ Grafana  │
+└──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
+     ✅               ✅               ✅               ✅               ✅
+```
+
+</div>
+
+---
+
+<!-- SKILLS SECTION -->
 ## 🛠️ Tech Stack & Tools
 
-**☁️ Cloud & Infrastructure**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+<div align="center">
 
-**⚙️ CI/CD, IaC & Containers**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,terraform,ansible,linux,bash,git,github,nginx,python&theme=dark&perline=12" />
-</p>
+#### ☁️ Cloud Platform — AWS
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/VPC%20%7C%20IAM%20%7C%20ALB%20%7C%20Route53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-**📊 Monitoring & Code Quality**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-Security%20Scanning-1904DA?style=flat-square&logo=aqua&logoColor=white"/>
-</p>
+<br/><br/>
+
+#### ⚙️ DevOps & CI/CD
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+<br/><br/>
+
+#### 📋 Infrastructure as Code
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<br/><br/>
+
+#### 🐳 Containers & Orchestration
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+
+<br/><br/>
+
+#### 📊 Monitoring & Observability
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<br/><br/>
+
+#### 🖥️ Operating Systems
+<img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</div>
 
 ---
 
-## 💼 Experience
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
 
-### 🏢 Cloud Engineering Intern — HEProAI *(Remote | Nov 2025 – Jan 2026)*
-- 🚀 Architected a fully **serverless backend** on AWS: Lambda (Node.js) + API Gateway + DynamoDB + S3
-- 🔐 Secured APIs with **JWT authentication via AWS Cognito** & enforced least-privilege IAM policies
-- 📊 Set up **CloudWatch** logs, metrics & custom alarms for centralized observability & incident response
-- 📝 Authored **deployment runbooks & rollback procedures** to standardize release operations
+<div align="center">
 
-### 🏢 AWS & DevOps Engineer Intern — Full Stack Academy *(Hyderabad | Aug 2025 – Nov 2025)*
-- 🔧 Built end-to-end **Jenkins CI/CD pipelines** integrated with Docker registries on AWS EC2
-- 🐳 Containerized apps using **Docker & Docker Compose** for consistent cross-environment deployments
-- 🌐 Provisioned AWS infra (EC2, S3, VPC, RDS, IAM, ALB, Route 53) for production-like environments
-- 🏗️ Automated IaC with **Terraform** (resources) + **Ansible** (config management)
-- ☸️ Deployed containerized workloads on **Kubernetes** for HA, horizontal scaling & fault tolerance
-- 🔍 Integrated **SonarQube** (code quality) + **Trivy** (vulnerability scanning) into pipelines
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-khezar-ahmed&show_icons=true&theme=dark&bg_color=04080f&title_color=00e5ff&text_color=7a8a9e&icon_color=ff6b35&border_color=00e5ff22&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-khezar-ahmed&layout=compact&theme=dark&bg_color=04080f&title_color=00e5ff&text_color=7a8a9e&border_color=00e5ff22&langs_count=8&hide=jupyter+notebook" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=md-khezar-ahmed&theme=dark&background=04080f&border=00e5ff22&stroke=00e5ff&ring=ff6b35&fire=ff6b35&currStreakNum=00e5ff&sideNums=7a8a9e&currStreakLabel=00e5ff&sideLabels=7a8a9e&dates=7a8a9e" />
+
+</div>
 
 ---
 
+<!-- PROJECTS -->
 ## 🚀 Featured Projects
 
-### ⚡ [Serverless Web Application on AWS](https://github.com/MdKhezarAhmed) *(Dec 2025 – Jan 2026)*
-> **Stack:** AWS Lambda · API Gateway · DynamoDB · Cognito · S3 · CloudWatch
+<div align="center">
 
-- Designed fully serverless architecture: static frontend on S3, RESTful backend via API Gateway + Lambda, NoSQL on DynamoDB
-- Secured endpoints with JWT via Cognito; applied granular IAM least-privilege policies to every Lambda function
-- Monitored invocation errors, latency & throttling with CloudWatch Logs & Alarms
+<table>
+<tr>
+<td width="50%">
 
----
+### ☁️ Serverless Web Application
+> *AWS Lambda · API Gateway · DynamoDB · Cognito · S3*
 
-### 🔧 [CI/CD Pipeline for Containerized React App](https://github.com/MdKhezarAhmed) *(Nov 2025)*
-> **Stack:** Jenkins · Docker · Docker Compose · AWS EC2 · Nginx · SonarQube · Trivy · PM2
+Fully serverless cloud-native backend with zero idle infrastructure. JWT auth via Cognito, pay-per-use Lambda compute, centralized CloudWatch observability.
 
-- Jenkins pipeline automating: source clone → Maven build → SonarQube gate → Trivy scan → Docker build → zero-downtime deploy
-- Multi-container setup via Docker Compose, Nginx reverse proxy, PM2 for Node.js process management
-- Enforced security with AWS Security Groups + UFW firewall rules
+**Highlights:**
+- ✅ 95% reduction in auth errors
+- ✅ Zero idle infrastructure cost
+- ✅ Centralized CloudWatch monitoring
+- ✅ IAM least-privilege enforcement
 
----
+</td>
+<td width="50%">
 
-### 🏗️ [Highly Available 3-Tier AWS Architecture](https://github.com/MdKhezarAhmed) *(Oct 2025)*
-> **Stack:** EC2 · RDS MySQL · VPC · ALB · Route 53 · Internet Gateway · NAT Gateway
+### ⚙️ CI/CD Pipeline — Containerized React App
+> *Jenkins · Docker · EC2 · Nginx · PM2*
 
-- Production-style 3-tier VPC: public subnets (web), private subnets (app), isolated DB subnets
-- Configured ALB for traffic distribution, Route 53 DNS, Internet Gateway & NAT Gateway
-- EC2 instances running Apache + PHP + phpMyAdmin integrated with Amazon RDS MySQL
+Full Jenkins automation pipeline on AWS EC2 from commit to production — with zero manual steps and security hardened networking.
 
----
+**Highlights:**
+- ✅ **60% faster** deployments
+- ✅ **70% memory savings** via Docker
+- ✅ **80% faster** container launch
+- ✅ SonarQube + Trivy code & security scan
 
-## 📊 GitHub Stats
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdKhezarAhmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhezarAhmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</p>
+### 🏗️ Highly Available 3-Tier AWS Architecture
+> *EC2 · RDS · VPC · ALB · Route 53 · NAT Gateway*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MdKhezarAhmed&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
-</p>
+Production-grade multi-tier web architecture with full network isolation across public, private, and DB subnets — built to survive AZ failures with auto-scaling and managed RDS backend.
 
----
+**Architecture:** `Users → Route53 → ALB → EC2 (Apache/PHP) → RDS MySQL (Private Subnet)`
 
-## 🏆 GitHub Trophies
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdKhezarAhmed&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdKhezarAhmed&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 📜 Certifications
+<!-- EXPERIENCE -->
+## 💼 Experience
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20DevOps-Getting%20Started-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Essentials-IBM%20SkillsBuild-054ADA?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-IBM%20SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps%20Engineering-Full%20Stack%20Academy-6DB33F?style=for-the-badge&logo=devdotto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Challenge-Full%20Stack%20Academy-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<table width="100%">
+<tr>
+<td>
+
+**🏢 Cloud Engineering Intern** &nbsp; `Nov 2025 – Jan 2026`
+**HEProAI** · Remote
+
+- Architected serverless backend: Lambda + API Gateway + DynamoDB + S3
+- Implemented Cognito JWT auth — **95% fewer auth errors**
+- Set up CloudWatch observability (logs, metrics, alarms)
+- Authored deployment runbooks & rollback procedures
+
+</td>
+<td>
+
+**🏢 AWS & DevOps Engineer Intern** &nbsp; `Aug 2025 – Nov 2025`
+**Full Stack Academy** · Hyderabad
+
+- Built Jenkins CI/CD pipelines — **60% faster deployments**
+- Docker & Docker Compose — **70% memory savings, 80% faster launch**
+- Terraform + Ansible IaC automation
+- Kubernetes orchestration · SonarQube + Trivy security scanning
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Key Strengths
+<!-- CERTIFICATIONS -->
+## 🏆 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|:---:|:---|:---|
+| ☁️ | Cloud Computing Fundamentals | IBM SkillsBuild |
+| 🐳 | Docker Essentials: A Developer Introduction | IBM |
+| ⚙️ | DevOps Engineering Challenge | Full Stack Academy |
+| 🔶 | Getting Started with AWS DevOps | Coursera |
+| 🏆 | AWS Challenge | Full Stack Academy |
+| 🐧 | Linux Challenge | Full Stack Academy |
+| 📊 | Data Science Workshop | Remarkskill Education |
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-khezar-ahmed&bg_color=04080f&color=00e5ff&line=00e5ff&point=ff6b35&area_color=00e5ff&area=true&hide_border=true&custom_title=Contribution+Graph" />
+
+</div>
+
+---
+
+<!-- SNAKE -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-khezar-ahmed/md-khezar-ahmed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-khezar-ahmed/md-khezar-ahmed/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/md-khezar-ahmed/md-khezar-ahmed/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- EDUCATION -->
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | CGPA |
+|:---|:---|:---|:---|
+| Bachelor of Computer Applications (BCA) | St. Joseph's Degree College · Osmania University, Hyderabad | 2022 – 2025 | **8.08** |
+
+</div>
+
+---
+
+<!-- CONTACT -->
+## 📬 Let's Connect
+
+<div align="center">
 
 ```
-✅ CI/CD Pipeline Automation     →  Jenkins, GitHub Actions
-✅ Serverless Architecture        →  AWS Lambda, API Gateway, DynamoDB
-✅ Infrastructure as Code         →  Terraform, Ansible, CloudFormation
-✅ Container Orchestration        →  Kubernetes, Docker, Docker Compose
-✅ Cloud Security                 →  IAM, Cognito, Least-Privilege Policies
-✅ Linux Administration           →  Ubuntu, Bash Scripting
-✅ Monitoring & Observability     →  CloudWatch, Prometheus, Grafana
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   $ cat candidate_status.json                           │
+│                                                         │
+│   {                                                     │
+│     "name"          : "Md Khezar Ahmed",                │
+│     "role"          : "AWS DevOps Engineer",            │
+│     "location"      : "Hyderabad, India",               │
+│     "availability"  : "Immediate",                      │
+│     "notice_period" : "0 days",                         │
+│     "open_to"       : ["DevOps", "Cloud Eng", "SRE"]    │
+│   }                                                     │
+│                                                         │
+│   $ echo $STATUS                                        │
+│   ✅ READY TO DEPLOY                                    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
+
+<br/>
+
+<a href="mailto:mohdkhezarahmed06@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/md-khezar-ahmed">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://md-khezar-ahmed.github.io">
+  <img src="https://img.shields.io/badge/View%20Portfolio-04080f?style=for-the-badge&logo=vercel&logoColor=00e5ff" />
+</a>
+
+</div>
 
 ---
 
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</p>
+<!-- FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04080f,50:00e5ff,100:04080f&height=120&section=footer&animation=fadeIn" />
+
+<sub>
+  <i>⚡ "Infrastructure as Code · Automate Everything · Ship with Confidence"</i>
+  <br/>
+  <b>© 2025 Md Khezar Ahmed · Hyderabad, India</b>
+</sub>
+
+</div>
