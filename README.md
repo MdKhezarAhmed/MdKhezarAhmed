@@ -1,81 +1,49 @@
 <h1 align="center">Hi 👋, I'm Khezar Ahmed</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Terraform | Kubernetes | Docker</h3>
-
-<p align="center">
-Focused on building scalable cloud infrastructure and automated deployment systems.
-</p>
+<h3 align="center">A passionate DevOps & Cloud Engineer from Hyderabad, India</h3>
 
 <br/>
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
 
-### 👨‍💻 About Me
+- 🚀 I'm currently working on **Cloud-native & Serverless AWS architectures**
 
-- 🚀 Working on **Cloud-native & Serverless AWS architectures**
-- 🌱 Learning **DevSecOps, GitOps & AWS Solutions Architect**
-- ⚙️ Skilled in **CI/CD, Infrastructure as Code & Containerization**
-- 📫 Reach me at **mohdkhezarahmed06@gmail.com**
+- 🌱 I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
+
+- ⚙️ Ask me about **Jenkins CI/CD, Terraform, Docker, Kubernetes & AWS**
+
+- 📫 How to reach me **mohdkhezarahmed06@gmail.com**
+
 - ⚡ Fun fact: I enjoy simplifying cloud setups and automating repetitive work
 
----
-
-### 🧠 Core Skills
-
-- **Cloud:** AWS (EC2, S3, VPC, RDS, Lambda, DynamoDB, API Gateway, IAM)
-- **CI/CD:** Jenkins, GitHub Actions
-- **IaC:** Terraform, Ansible
-- **Containers:** Docker, Kubernetes
-- **Monitoring:** Prometheus, Grafana, CloudWatch
-- **Languages:** Bash, Python, Node.js
-
     </td>
-
-    <td width="40%" align="center">
-      <img width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
+    <td width="35%" valign="top" align="center">
+      <img width="340" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="DevOps coding animation"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Connect with Me
+### Connect with me:
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-khezar-ahmed">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mohdkhezarahmed06@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://md-khezar-ahmed.github.io">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/md-khezar-ahmed" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mohdkhezarahmed06@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://md-khezar-ahmed.github.io" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
+</a>
 
 ---
 
-### ⚙️ Tech Stack
+### Languages and Tools:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,prometheus,grafana,python,fastapi,nodejs,maven,vscode&theme=dark" />
-</p>
-
----
-
-### 📌 What I'm Currently Focusing On
-
-- Building **real-world DevOps projects**
-- Improving **system design understanding**
-- Preparing for **DevOps / Cloud Engineer roles**
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-<i>Currently building consistency — projects coming soon 🚀</i>
 </p>
