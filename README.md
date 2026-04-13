@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khezar Ahmed</h1>
 <h3 align="center">A passionate DevOps & Cloud Engineer from Hyderabad, India</h3>
+<br>
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
+<img align="right" width="220" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
 
 - I'm currently working on **Cloud-native & Serverless AWS architectures**
 - I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
@@ -9,7 +10,7 @@
 - Open to **DevOps / Cloud Engineer opportunities** and collaborative projects
 - Fun fact: I enjoy simplifying cloud setups and automating repetitive work
 
-<br/><br/>
+
 
 ### Connect with me:
 
