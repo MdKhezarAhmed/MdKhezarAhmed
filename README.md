@@ -1,9 +1,8 @@
-<h2 align="center">Hi there 👋</h2>
-
-<h1 align="center">I'm Khezar Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Khezar Ahmed</h1>
 <h3 align="center">A passionate DevOps & Cloud Engineer from Hyderabad, India</h3>
 
 <br/>
+
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
 
@@ -31,9 +30,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://md-khezar-ahmed.github.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
-</a>
+
 
 ---
 
