@@ -27,4 +27,4 @@
 
 ### Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,prometheus,grafana,python,fastapi,nodejs,maven,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,githubactions,prometheus,grafana,python,fastapi,nodejs,maven,vscode&theme=dark" />
