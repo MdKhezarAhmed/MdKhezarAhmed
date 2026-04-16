@@ -4,9 +4,9 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
 
-- I'm currently working on **Cloud-native & Serverless AWS architectures**
+- Working on **Cloud-native & Serverless AWS architectures**
   
-- I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
+- Currently learning **DevSecOps, GitOps & AWS Solutions Architect** Concepts
   
 - I build and automate cloud infrastructure, CI/CD pipelines, and containerized applications
 - Open to **DevOps / Cloud Engineer opportunities** and collaborative projects
@@ -18,11 +18,11 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/md-khezar-ahmed" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38" width="36" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mohdkhezarahmed06@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" width="36" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" />
 </a>
 
 ### Tech Stack:
