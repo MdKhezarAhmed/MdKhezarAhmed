@@ -8,7 +8,7 @@
   
 - I'm currently learning **DevSecOps, GitOps & AWS Solutions Architect**
   
-- I focus on building scalable, production-ready cloud infrastructure and automated deployment pipelines
+- I build and automate cloud infrastructure, CI/CD pipelines, and containerized applications
 - Open to **DevOps / Cloud Engineer opportunities** and collaborative projects
   
 - Fun fact: I enjoy simplifying cloud setups and automating repetitive work
