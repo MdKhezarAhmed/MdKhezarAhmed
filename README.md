@@ -13,17 +13,6 @@
   
 - Fun fact: I enjoy simplifying cloud setups and automating repetitive work
 
-### ATS-Friendly Cloud/DevOps Fresher Headlines:
-
-1. **Cloud-Native DevOps Explorer (Fresher) | AWS • Docker • CI/CD Automation**  
-   Fresh and fast-learning engineer with practical skills in cloud deployment, containerized workflows, and automated delivery pipelines.
-
-2. **Junior DevOps & Reliability Engineer | Infrastructure as Code • Monitoring • GitOps**  
-   Entry-level candidate focused on building resilient systems, improving release speed, and supporting stable production environments.
-
-3. **Next-Gen Cloud Operations Engineer | Kubernetes • GitHub Actions • Linux**  
-   Creative fresher passionate about scalable cloud platforms, continuous integration, and DevOps practices that improve team productivity.
-
 
 
 ### Connect with me:
