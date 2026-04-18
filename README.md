@@ -31,3 +31,4 @@
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,githubactions,prometheus,grafana,python,fastapi,nodejs,maven,vscode,react,ts,threejs,html,css,js&theme=dark" />
 
 **3D Web Stack Focus:** React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+<sub>Note: GSAP and WebGL are highlighted in text because they are not available as skillicons.</sub>
