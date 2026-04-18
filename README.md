@@ -9,6 +9,7 @@
 - Currently learning **DevSecOps, GitOps & AWS Solutions Architect** Concepts
   
 - I build and automate cloud infrastructure, CI/CD pipelines, and containerized applications
+- Building **3D cloud/devops web experiences** for clear, visually engaging platform visibility
 - Open to **DevOps / Cloud Engineer opportunities** and collaborative projects
   
 - Fun fact: I enjoy simplifying cloud setups and automating repetitive work
@@ -27,4 +28,6 @@
 
 ### Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,githubactions,prometheus,grafana,python,fastapi,nodejs,maven,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,bash,git,github,nginx,githubactions,prometheus,grafana,python,fastapi,nodejs,maven,vscode,react,ts,threejs,html,css,js&theme=dark" />
+
+**3D Web Stack Focus:** React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
