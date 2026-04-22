@@ -19,11 +19,15 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/md-khezar-ahmed" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mohdkhezarahmed06@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="32" style="vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://khezar.dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="32" />
 </a>
 
 ### Tech Stack:
