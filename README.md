@@ -27,7 +27,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://khezar.dev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="32" />
+ <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="32" />
 </a>
 
 ### Tech Stack:
