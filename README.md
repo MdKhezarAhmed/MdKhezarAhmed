@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khezar Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Md Khezar Ahmed</h1>
 <h3 align="center">A passionate DevOps & Cloud Engineer from Hyderabad, India</h3>
 <br>
 
